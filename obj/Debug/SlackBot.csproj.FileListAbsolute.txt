@@ -1,0 +1,11 @@
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\bin\Debug\SlackBot.exe.config
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.csprojResolveAssemblyReference.cache
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.ProjectInstaller.resources
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.SlackBot.resources
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.csproj.GenerateResource.Cache
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\bin\Debug\SlackBot.exe
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\bin\Debug\SlackBot.pdb
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.exe
+C:\Users\shillman\Documents\Project\SlackBots\SlackBotService\SlackBot\obj\Debug\SlackBot.pdb
